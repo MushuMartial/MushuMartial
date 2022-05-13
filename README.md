@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mushu Martial</h1>
 <h3 align="center">A passionate School 19 developer from Belgium</h3>
 
-- 🔭 I’m currently working on **CPP**
+- 🔭 I’m currently working on **Ft Containers**
 
-- 🌱 I’m currently learning **CPP**
+- 🌱 I’m currently learning **Ft Containers**
 
 - 📫 How to reach me **martial.tim@hotmail.com**
-
-- ⚡ Fun fact **I am not a real dragon**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
