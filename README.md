@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mushumartial)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mushumartial&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <h1 align="center">Hi 👋, I'm Tim Martial</h1>
 <h3 align="center">A passionate School 19 developer from Belgium</h3>
 
