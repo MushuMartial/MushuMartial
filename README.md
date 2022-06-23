@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **martial.tim@hotmail.com**
 
-- ⚡ Hobby fact **I do kayak**
+- ⚡ Hobby **Kayak and Video Games**
 
 <p align="left">
 </p>
