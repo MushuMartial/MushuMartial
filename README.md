@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tim Martial</h1>
 <h3 align="center">A passionate School 19 developer from Belgium</h3>
 
-- 🔭 I’m currently working on **Inception**
+- 🔭 I’m currently working on **FT_CONTAINERS**
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **BINARY TREES**
 
 - 📫 How to reach me **martial.tim@hotmail.com**
 
-- ⚡ Fun fact **I do extreme kayak**
+- ⚡ Hobby fact **I do kayak**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
