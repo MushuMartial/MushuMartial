@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tim Martial</h1>
 <h3 align="center">A passionate School 19 developer from Belgium</h3>
 
-- 🔭 I’m currently working on **WEBSERV**
+- 🔭 I’m currently working on **AZURE ADMIN**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **CLOUD**
 
 - 📫 How to reach me **martial.tim@hotmail.com**
 
