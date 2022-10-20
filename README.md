@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tim Martial</h1>
 <h3 align="center">A passionate School 19 developer from Belgium</h3>
 
-- 🔭 I’m currently working on **AZURE ADMIN**
+- 🔭 I’m currently working on **AZURE ADMINISTRATOR**
 
 - 🌱 I’m currently learning **CLOUD**
 
